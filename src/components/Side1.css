@@ -1,0 +1,41 @@
+.main {
+  padding: 0;
+  margin: 0;
+  background-color: #fff;
+  font-family: sans-serif;
+  width: 100%;
+  min-width: 100px;
+  /* height: 522px; */
+}
+.text-heading {
+  background-image: linear-gradient(60deg, #ff3a7c, #741eff);
+  font-size: 1.4rem;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 600;
+}
+
+.margin-small {
+  margin-bottom: 1.5rem;
+}
+h2.text-subhead {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 3rem;
+  line-height: 1.2;
+  font-weight: 700;
+}
+p.text-desc {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  line-height: 1.5;
+}
+
+.text-size-medium-2 {
+  color: #4d4d4d;
+  font-size: 1.125rem;
+}

@@ -1,0 +1,15 @@
+.side_2 {
+  width: 690px;
+  height: fit-content;
+  padding-top: 28px;
+  position: sticky;
+  top: 74px;
+  z-index: -2;
+}
+
+@media screen and (max-width: 940px) {
+  .side_2 {
+    width: 100%;
+    display: none;
+  }
+}
